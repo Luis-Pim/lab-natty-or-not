@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto é sobre um episodio de podcast tech abordando o tema de IA nos dias atuais
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utlizada Chat GPT da OpenAI com tecnicas de engenharia de prompt para gerar o roteiro e o ElevenLabs para fazer a parte de speech to text
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro utlizando o modelo gpt-4o da OpenAi expliquei o contesto do podcast e como deveria ser as falas de cada personagem e bastou pegar essa rodeiro e colocar no ElevenLabs para fazer a parte de speech to text
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi totalmente satisfátorio
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
